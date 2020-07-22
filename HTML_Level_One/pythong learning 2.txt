@@ -1,0 +1,45 @@
+Python Learning Program - 
+
+ReRea Book - FUlly Understand each Question and Definition
+Pass Certification for Python
+
+{Code for Jobs? 
+code along while creating your own version of each video for github ( Extremely Useful for getting Job }
+--------------------------------------------------------------------------------------------------------------
+ Quant  Projects Python ::::::: 
+https://www.youtube.com/watch?v=0e-lsstqCdY&list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ&index=2
+--------------------------------------------------------------------------------------------------------------
+https://www.afternerd.com/blog/learn-python/
+ Python Data Project ---------- 
+Ecommerce Python Website  ------ Udemy / Youtube
+ 
+
+Python Schdule : 
+
+Wake -
+5
+flashCards in Bath - 15min
+Read Python Book - 45min
+ 6
+
+
+
+7 - Code Along to Python Quant 
+
+9 - Code Along to Python Ecommerce 
+
+
+Summary and Suggested Reading Chronology
+
+    Beginning Python: From Novice to Professional - Hetland
+    Learning Python: Powerful Object-Oriented Programming - Lutz
+    Dive Into Python 3 - Pilgrim
+    Programming Python - Lutz
+    Pro Python - Alchin
+    Python Cookbook - Beazley et al
+    Foundations of Agile Python Development - Younker
+1. Programming Collective Intelligence: Building Smart Web 2.0 Applications
+2. Building Machine Learning Systems with Python
+3. Learning scikit-learn: Machine Learning in Python
+4. Machine Learning in Action
+5. Machine Learning: An Algorithmic Perspective
